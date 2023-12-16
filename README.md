@@ -1,4 +1,4 @@
-# Privacy Preserving Federated-Learning (PyTorch)
+# Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks
 
 Implementation of the vanilla federated learning paper : [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
 Updates done to implement a Privacy Preserving network.
