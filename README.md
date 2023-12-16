@@ -4,6 +4,7 @@ Implementation of the vanilla federated learning paper : [Communication-Efficien
 Updates done to implement a Privacy Preserving network.
 
 For better understanding the code and the formulation check also these papers:
+[https://arxiv.org/abs/2107.01475]  and [https://arxiv.org/abs/2005.11480]
 
 
 ## Running the experiments
