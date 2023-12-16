@@ -2,6 +2,8 @@
 
 Implementation of the vanilla federated learning paper : [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
 Updates done to implement a Privacy Preserving network.
+For better understanding the code and the formulation check also these papers:
+
 
 ## Running the experiments
 
@@ -65,5 +67,3 @@ sudo python3 src/federated_main.py  --dataset=adult_income --gpu=0 --iid=1
 sudo python3 src/federated_main.py  --dataset=adult_income --gpu=0 --iid=0
 ```
 
-EXPERIMENTS ON LFW
-Not implemented
