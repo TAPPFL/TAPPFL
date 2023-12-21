@@ -3,8 +3,6 @@
 Implementation of the vanilla federated learning paper : [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
 Updates done to implement a Privacy Preserving network.
 
-For better understanding the code and the formulation check also these papers:
-[https://arxiv.org/abs/2107.01475]  and [https://arxiv.org/abs/2005.11480]
 
 
 ## Running the experiments
